@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{CFF1ED9B-A359-133D-00EB-4275F23505D1}") = "MultibandCompressor", "MultibandCompressor.vcxproj", "{89B95764-7D9E-8B5C-54F4-A0BD8D3005C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B95764-7D9E-8B5C-54F4-A0BD8D3005C7}.Release|Win32.ActiveCfg = Release|Win32
+		{89B95764-7D9E-8B5C-54F4-A0BD8D3005C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
